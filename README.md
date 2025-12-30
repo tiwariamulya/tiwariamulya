@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @tiwariamulya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I'm Amulya Tiwari</h1>
 
-<!---
-tiwariamulya/tiwariamulya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🚀 Passionate Learner | 💻 Developer | 🌱 Growing Every Day
+</p>
+
+<hr>
+
+<h3>About Me</h3>
+<ul>
+  <li>🔭 Exploring technology and development</li>
+  <li>📚 Always learning new skills</li>
+  <li>🤝 Open to collaboration</li>
+</ul>
+
+<p>
+  📫 <strong>Feel free to connect and collaborate!</strong>
+</p>
